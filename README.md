@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 -->
 
 - Final year student pursuing Btech in Information Technology at Heritage Institute of Technology, Kolkata
+- Coding Enthusiast 
+- I love Web Development
+- My hobbies include: Dancing and Painting
 <!-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
